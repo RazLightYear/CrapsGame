@@ -1,0 +1,11 @@
+The Rules:
+You roll 2 regular dices. 
+After the dices have come to rest, the sum of them
+is calculated.
+If the sum is 7 or 11 on the first roll- You Win!
+If the sum is 2, 3 or 12 on the first roll - You Lose!
+If the sum is anything else, the sum becomes your
+point.
+To win you must keep rolling until you "make your
+point" (i.e, roll the same point value).
+If you roll 7 before making yout point-You Lose!
